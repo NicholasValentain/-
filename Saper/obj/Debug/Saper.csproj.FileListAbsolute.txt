@@ -1,0 +1,12 @@
+D:\C#\c#\Saper\obj\Debug\Saper.csprojAssemblyReference.cache
+D:\C#\c#\Saper\obj\Debug\Saper.Form1.resources
+D:\C#\c#\Saper\obj\Debug\Saper.Form2.resources
+D:\C#\c#\Saper\obj\Debug\Saper.Properties.Resources.resources
+D:\C#\c#\Saper\obj\Debug\Saper.csproj.GenerateResource.cache
+D:\C#\c#\Saper\obj\Debug\Saper.csproj.CoreCompileInputs.cache
+D:\C#\c#\Saper\bin\Debug\Saper.exe.config
+D:\C#\c#\Saper\bin\Debug\Saper.exe
+D:\C#\c#\Saper\bin\Debug\Saper.pdb
+D:\C#\c#\Saper\obj\Debug\Saper.Form3.resources
+D:\C#\c#\Saper\obj\Debug\Saper.exe
+D:\C#\c#\Saper\obj\Debug\Saper.pdb
